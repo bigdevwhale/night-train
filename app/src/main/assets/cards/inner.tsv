@@ -1,0 +1,144 @@
+in-001	Q	E	fears	g	Which perfectly ordinary thing scares you more than it should: pigeons, phone calls, escalators, something else?	Какая совершенно обычная вещь пугает вас сильнее, чем положено: голуби, телефонные звонки, эскалаторы, что-то ещё?
+in-002	Q	E	fears	g	Which scene from a horror film still walks you to bed at night?	Какая сцена из фильма ужасов до сих пор провожает вас до кровати?
+in-003	Q	E	fears	-	What did you believe as a child that made you steer clear of a certain cupboard, basement or manhole?	Во что вы верили в детстве, из-за чего обходили стороной какой-нибудь шкаф, подвал или канализационный люк?
+in-004	Q	E	fears	g	The train stops in a dark forest and the lights go out. What is the very first thing you do?	Поезд встаёт посреди тёмного леса, и гаснет свет. Что вы сделаете в самую первую секунду?
+in-005	Q	E	fears	b	What is the silliest thing you were ever afraid of for a whole week?	Чего самого нелепого вы боялись целую неделю подряд?
+in-006	Q	E	fears	g	Which small act of courage deserves your own applause: singing in public, sending soup back, phoning a plumber?	Какой маленький подвиг заслужил бы ваших личных аплодисментов: спеть при всех, вернуть суп на кухню, позвонить сантехнику?
+in-007	Q	N	fears	-	Who were you afraid of becoming?	Кем вы боялись стать?
+in-008	Q	N	fears	g	Which sound at night makes you get up and go and check?	Какой ночной звук заставляет вас встать и пойти проверить?
+in-009	Q	N	fears	-	When did you last pretend not to be scared, and who was the performance for?	Когда вы в последний раз делали вид, что вам не страшно, и для кого был этот спектакль?
+in-010	Q	N	fears	-	Which fear did you inherit from your family, like an old sideboard nobody wants?	Какой страх достался вам от семьи по наследству, как старый сервант, который жалко выбросить?
+in-011	Q	N	fears	g	Whose name lighting up your phone screen makes your stomach drop?	Чьё имя на экране телефона заставляет ваше сердце ухнуть куда-то вниз?
+in-012	Q	N	fears	-	Which fear have you already outgrown, and when did you notice it was gone?	Из какого страха вы уже выросли и когда заметили, что его больше нет?
+in-013	Q	N	fears	-	What would you never do again, even for good money, because of one single memory?	Чего вы больше никогда не сделаете, даже за хорошие деньги, из-за одного-единственного воспоминания?
+in-014	Q	N	fears	g	Which place do you avoid without ever telling anyone why?	Какое место вы обходите стороной, никому не объясняя почему?
+in-015	Q	N	fears	-	When were you most afraid of being found out, and what gave you away, or nearly did?	Когда вы больше всего боялись, что вас раскусят, и что вас выдало или чуть не выдало?
+in-016	Q	N	fears	g	Spiders, heights, the dentist, a hundred unread emails: rank them by horror and tell the story behind number one.	Пауки, высота, стоматолог, сотня непрочитанных писем — расставьте по степени ужаса и расскажите историю про первое место.
+in-017	Q	T	fears	-	What do you fear the person opposite you might one day find out about you?	Что о вас, как вы опасаетесь, однажды может узнать человек напротив?
+in-018	Q	T	fears	-	Which fear quietly makes decisions for you, even when it feels like you are the one choosing?	Какой страх тихо принимает решения за вас, даже когда кажется, что выбираете вы сами?
+in-019	Q	T	fears	-	What are you so afraid of losing that you almost never say it out loud?	Что вы так боитесь потерять, что почти никогда не произносите этого вслух?
+in-020	Q	T	fears	-	When did you feel truly lonely in a room full of people?	Когда вам было по-настоящему одиноко в комнате, полной людей?
+in-021	Q	T	fears	-	Which side of yourself are you most afraid to show the person opposite you?	Какую свою сторону вы больше всего боитесь показать человеку напротив?
+in-022	Q	D	fears	b	Which of your fears would shrink if the two of you faced it together?	Какой ваш страх стал бы меньше, если бы вы встретили его вдвоём?
+in-023	Q	D	fears	-	Recall a moment when, next to the person opposite you, something frightening suddenly felt ordinary.	Вспомните момент, когда рядом с человеком напротив что-то страшное вдруг стало совсем нестрашным.
+in-024	Q	D	fears	g	Which brave thing would you do this year if someone held your coat?	На какой смелый поступок вы решились бы в этом году, если бы кто-то подержал ваше пальто?
+in-025	Q	E	dreams	g	Which useless skill would you love to master perfectly?	Каким бесполезным навыком вы хотели бы владеть в совершенстве?
+in-026	Q	E	dreams	g	You get a year of rent-free life in any city in the world. Which city, and which street?	Вам дарят год бесплатной жизни в любом городе мира. Какой город и какая улица?
+in-027	Q	E	dreams	g	What would you do with a free Tuesday that nobody knew about?	Что бы вы сделали со свободным вторником, о котором никто не знает?
+in-028	Q	E	dreams	b	Which childhood dream job would you still try for a week, if nobody laughed?	На какой работе мечты из детства вы бы всё ещё поработали недельку, если бы никто не смеялся?
+in-029	Q	E	dreams	g	Which famous person, living or long gone, would you like to have in this compartment tonight?	Какую знаменитость, живую или давно ушедшую, вы хотели бы видеть сегодня в этом купе?
+in-030	Q	E	dreams	-	Describe the house of your dreams, starting with the smell in the hallway.	Опишите дом своей мечты, начиная с запаха в прихожей.
+in-031	Q	E	dreams	g	You wake up tomorrow fluent in one new language. Which one, and what is the first thing you say in it?	Завтра вы просыпаетесь и свободно говорите на новом языке. На каком, и что вы скажете на нём первым делом?
+in-032	Q	E	dreams	-	What did you dream about last night, or what is the latest dream you still remember?	Что вам снилось этой ночью — или какой последний сон вы до сих пор помните?
+in-033	Q	N	dreams	-	Which dream did you quietly give up on, and where is it now: in a drawer or in the bin?	От какой мечты вы тихо отказались и где она теперь лежит — в ящике стола или на помойке?
+in-034	Q	N	dreams	g	What exactly did you want to be when you were ten?	Кем именно вы хотели стать в десять лет?
+in-035	Q	N	dreams	g	Which thing did you want so badly as a child that you still remember the shop window?	Какую вещь вы так хотели в детстве, что до сих пор помните ту витрину?
+in-036	Q	N	dreams	-	Whose life did you secretly envy as a teenager?	Чьей жизни вы тайком завидовали подростком?
+in-037	Q	N	dreams	g	Which small dream came true and turned out even better than you had imagined?	Какая маленькая мечта сбылась и оказалась даже лучше, чем вы представляли?
+in-038	Q	N	dreams	-	What do you daydream about on the way home, when nobody can see your face?	О чём вы мечтаете по дороге домой, когда никто не видит вашего лица?
+in-039	Q	N	dreams	-	Which dream let you down the moment it came true?	Какая мечта разочаровала вас, едва успев сбыться?
+in-040	Q	N	dreams	g	A large sum lands on you tomorrow. What do you buy first, before you tell a soul?	Завтра на вас сваливается крупная сумма. Что вы купите первым делом, ещё никому не сказав?
+in-041	Q	N	dreams	b	Which trip have you been planning in your head for years without ever buying the ticket?	Какую поездку вы годами планируете в голове, так и не купив билет?
+in-042	Q	T	dreams	-	Which dream are you afraid to say out loud, because then you would have to try?	Какую мечту вы боитесь произнести вслух, потому что тогда придётся попробовать?
+in-043	Q	T	dreams	-	The child you once were peeks into this compartment. What would surprise them most about your life now?	В купе заглядывает ребёнок, которым вы когда-то были. Что больше всего удивит его в вашей нынешней жизни?
+in-044	Q	T	dreams	-	Which dream did you give up for someone else, and what is left of it in you?	От какой мечты вы отказались ради кого-то другого и что от неё в вас осталось?
+in-045	Q	T	dreams	-	What do you want so much that it embarrasses you a little?	Чего вы хотите так сильно, что вам даже немного неловко?
+in-046	Q	D	dreams	b	Which dream of the person opposite you would you like to help come true?	Какую мечту человека напротив вам хотелось бы помочь исполнить?
+in-047	Q	D	dreams	g	What does a perfect, ordinary Sunday for the two of you look like, hour by hour?	Как выглядит ваше идеальное обычное воскресенье вдвоём — по часам?
+in-048	Q	D	dreams	-	Which dream did you only start having after you met the person opposite you?	Какая мечта появилась у вас только после встречи с человеком напротив?
+in-049	Q	E	values	g	Which small rudeness from strangers annoys you far more than it should?	Какая мелкая невежливость незнакомцев бесит вас гораздо сильнее, чем стоило бы?
+in-050	Q	E	values	g	Would you hand in a lost wallet full of cash? Now tell the story of the pen you never gave back.	Вы бы вернули найденный кошелёк с деньгами? А теперь расскажите про ручку, которую так и не отдали.
+in-051	Q	E	values	-	Which rule from your parents' house do you still follow without thinking?	Какое правило из родительского дома вы до сих пор соблюдаете, даже не задумываясь?
+in-052	Q	E	values	g	Which household principle would you defend to the death: the toilet roll, the dishwasher, the window open at night?	За какой бытовой принцип вы готовы стоять насмерть: как вешать туалетную бумагу, как загружать посудомойку, открывать ли окно на ночь?
+in-053	Q	E	values	b	What is your unwritten rule for queues, lifts and escalators?	Какое у вас неписаное правило для очередей, лифтов и эскалаторов?
+in-054	Q	E	values	g	What do you flatly refuse to buy cheap?	На чём вы принципиально не экономите?
+in-055	Q	E	values	g	What would you rather be praised for: your wit, your kindness, your humour or your nerve? Why that one?	За что вам приятнее всего услышать похвалу: за ум, доброту, чувство юмора или смелость? Почему именно за это?
+in-056	Q	E	values	-	Which fictional character has better principles than most people you know?	У какого вымышленного персонажа принципы лучше, чем у многих ваших знакомых?
+in-057	Q	N	values	-	When did you stand up for someone, and what did it cost you?	Когда вы заступились за кого-то и чего вам это стоило?
+in-058	Q	N	values	g	Which lie do you tell regularly and consider completely harmless?	Какую ложь вы говорите регулярно и считаете совершенно безобидной?
+in-059	Q	N	values	-	Who taught you what decency means without ever saying a word about it?	Кто научил вас порядочности, ни разу не сказав о ней ни слова?
+in-060	Q	N	values	g	What would you never forgive a friend?	Чего вы никогда не простили бы другу?
+in-061	Q	N	values	-	Which of your principles has quietly changed over the last few years?	Какой из ваших принципов незаметно поменялся за последние несколько лет?
+in-062	Q	N	values	-	When did you break your own rule and not regret it one bit?	Когда вы нарушили собственное правило и ничуть об этом не пожалели?
+in-063	Q	N	values	g	After people and pets, what would you carry out of a burning flat first?	Что вы вынесли бы из горящей квартиры первым делом — после людей и животных?
+in-064	Q	N	values	b	Which family tradition would you keep, and which would you quietly bury?	Какую семейную традицию вы бы сохранили, а какую тихонько похоронили бы?
+in-065	Q	N	values	-	When did money show you someone's true face?	Когда деньги показали вам чьё-то настоящее лицо?
+in-066	Q	T	values	-	When did you act against what you believe in, and what pushed you to it?	Когда вы поступили против собственных убеждений и что вас к этому подтолкнуло?
+in-067	Q	T	values	-	Which of your own values do you keep failing to live up to?	Какой своей же ценности вам никак не удаётся соответствовать?
+in-068	Q	T	values	-	What do you need from the person opposite you that you have never asked for?	Что вам нужно от человека напротив, о чём вы ещё ни разу не просили?
+in-069	Q	T	values	-	What were you once ashamed of that you now realise is something to be proud of?	Чего вы когда-то стыдились, а потом поняли, что этим можно гордиться?
+in-070	Q	D	values	b	Which quality of the person opposite you would you like to borrow a little more of?	Какое качество человека напротив вам хотелось бы позаимствовать — хотя бы немного?
+in-071	Q	D	values	g	If the two of you had a family motto embroidered on a cushion, what would it say?	Если бы у вас двоих был семейный девиз, вышитый на диванной подушке, что бы на ней было написано?
+in-072	Q	D	values	-	What should your shared home always smell and sound like?	Чем, по-вашему, всегда должен пахнуть и как должен звучать ваш общий дом?
+in-073	Q	E	work	g	What was your very first paid job, and what did the money go on?	Какой была ваша самая первая оплачиваемая работа и на что ушли те деньги?
+in-074	Q	E	work	g	Which job would you be hopeless at, and how fast would you get fired?	В какой профессии вы были бы безнадёжны и как быстро вас бы уволили?
+in-075	Q	E	work	b	If the two of you opened a restaurant, what would definitely be on the menu, and why would you go bust?	Если бы вы двое открыли ресторан, что точно было бы в меню и из-за чего вы бы прогорели?
+in-076	Q	E	work	g	You may print any job title you like on your business card. What does it say?	На визитке можно написать любую должность, какую захочется. Что там будет написано?
+in-077	Q	E	work	-	What is the strangest thing anyone has ever asked you to do at work?	О чём самом странном вас когда-либо просили на работе?
+in-078	Q	E	work	g	Which job did you secretly admire as a child: tram driver, cashier, ice-cream seller, someone else?	Какой профессией вы тайком восхищались в детстве: вагоновожатый, кассир, продавец мороженого, кто-то ещё?
+in-079	Q	E	work	g	Which object on your desk or in your work bag would tell a stranger the most about you?	Какая вещь на вашем рабочем столе или в рабочей сумке рассказала бы о вас незнакомцу больше всего?
+in-080	Q	E	work	b	Which colleague, past or present, would you take on this train, and whom would you drop off at the first station?	Кого из коллег, бывших или нынешних, вы взяли бы в этот поезд, а кого высадили бы на первой же станции?
+in-081	Q	N	work	-	When did you last lose all track of time while working, and what were you doing?	Когда вы в последний раз забыли о времени за работой и чем тогда были заняты?
+in-082	Q	N	work	-	Which working day do you still replay in your head?	Какой рабочий день вы до сих пор прокручиваете в голове?
+in-083	Q	N	work	g	What do you do at work that nobody notices, but everyone would miss if you stopped?	Что вы делаете на работе такого, чего никто не замечает, но все бы хватились, если бы вы перестали?
+in-084	Q	N	work	-	Which boss, mentor or teacher changed the way you work, for better or worse?	Под чьим влиянием — начальника, наставника, учителя — вы стали работать по-другому, к лучшему или к худшему?
+in-085	Q	N	work	g	Which task would you happily pay someone else to do for the rest of your life?	Какую задачу вы бы с радостью до конца жизни отдали кому-то другому за деньги?
+in-086	Q	N	work	-	When did you feel you were sitting in someone else's chair, and what kept you from giving yourself away?	Когда вам казалось, что вы занимаете чужое место, и что помогло вам себя не выдать?
+in-087	Q	N	work	-	What did your parents' jobs teach you about what work should never be?	Чему вас научила работа родителей — о том, какой работа быть не должна?
+in-088	Q	N	work	g	What would you do for a living if every job paid exactly the same?	Чем бы вы занимались, если бы за любую работу платили одинаково?
+in-089	Q	N	work	-	Which praise for your work have you kept in your memory for years?	Какую похвалу своей работе вы годами храните в памяти?
+in-090	Q	T	work	-	When did work take something from you that you can never get back?	Когда работа отняла у вас то, чего уже не вернуть?
+in-091	Q	T	work	-	Which part of your work are you secretly proud of but never mention?	Чем в своей работе вы втайне гордитесь, но никогда об этом не говорите?
+in-092	Q	T	work	-	What do you think people would say about you if you suddenly stopped being useful?	Что, как вам кажется, о вас скажут, если вы вдруг перестанете быть полезными?
+in-093	Q	T	work	-	Which decision about work do you sometimes regret at three in the morning?	О каком рабочем решении вы иногда жалеете в три часа ночи?
+in-094	Q	D	work	b	What does the person opposite you do so well that you would hire them on the spot?	Что человек напротив делает настолько хорошо, что вы приняли бы этого человека на работу не глядя?
+in-095	Q	D	work	-	How much room would you like work to take up in your life together a year from now?	Сколько места вы хотели бы отвести работе в вашей общей жизни через год?
+in-096	Q	D	work	g	Which little evening ritual should mark the end of the working day in your home?	Какой маленький вечерний ритуал должен отмечать в вашем доме конец рабочего дня?
+in-097	Q	E	future	g	It is 2070 and you are very old. What is your most irritating habit?	На дворе 2070 год, вы глубокие старики. Какая у вас самая невыносимая привычка?
+in-098	Q	E	future	g	Which invention do you hope to live to see: a teleport, a robot that folds the laundry, something else?	Какое изобретение вы надеетесь застать: телепорт, робота, который складывает бельё, что-то ещё?
+in-099	Q	E	future	g	What will you be famous for in your street when you are eighty?	Чем вы будете знамениты на своей улице в восемьдесят лет?
+in-100	Q	E	future	g	Which detail of how you look today will seem the funniest in photos thirty years from now?	Какая деталь вашего сегодняшнего образа будет смотреться смешнее всего на фотографиях через тридцать лет?
+in-101	Q	E	future	b	Send yourself a postcard from ten years ahead. It is only one line long. What does it say?	Напишите себе открытку из будущего, через десять лет, — всего одну строчку. Что в ней?
+in-102	Q	E	future	g	Which hobby are you saving for your retirement?	Какое увлечение вы приберегаете на пенсию?
+in-103	Q	E	future	g	If this train ran into the future instead of through the night, in which year would you get off?	Если бы этот поезд ехал не сквозь ночь, а в будущее, — в каком году вы бы сошли?
+in-104	Q	E	future	-	What will still be exactly the same in fifty years, no matter what happens?	Что, по-вашему, и через пятьдесят лет останется точно таким же, что бы ни случилось?
+in-105	Q	N	future	-	Which promise you made to your future self have you already broken?	Какое обещание, данное себе на будущее, вы уже успели нарушить?
+in-106	Q	N	future	-	At fifteen, how did you picture your life at the age you are now?	Какой вы представляли себе в пятнадцать лет свою жизнь в нынешнем возрасте?
+in-107	Q	N	future	g	What do you want to have learned by next summer?	Чему вы хотите научиться к следующему лету?
+in-108	Q	N	future	-	Which thing at home are you saving "for later", and when exactly is later?	Какую вещь дома вы бережёте «на потом» — и когда наступит это самое потом?
+in-109	Q	N	future	g	Whom do you hope to resemble when you are old?	На кого вы надеетесь быть похожими в старости?
+in-110	Q	N	future	-	What do you keep putting off until "things calm down"?	Что вы всё откладываете до тех пор, «пока всё не уляжется»?
+in-111	Q	N	future	g	Where would you like to wake up on your next birthday?	Где вы хотели бы проснуться в свой следующий день рождения?
+in-112	Q	N	future	-	Which change in the world gives you hope, even a quiet one?	Какая перемена в мире даёт вам надежду — пусть даже совсем тихую?
+in-113	Q	N	future	-	What will you tell your grandchildren about these years, and what will you leave out?	Что вы расскажете внукам об этих годах, а о чём умолчите?
+in-114	Q	T	future	-	Which future are you secretly afraid has already been decided?	Какое будущее, как вы втайне боитесь, уже предрешено?
+in-115	Q	T	future	-	What would you like to be forgiven for before you grow old?	За что вы хотели бы получить прощение, пока не состарились?
+in-116	Q	T	future	-	If you had one year left, what would you stop doing tomorrow morning?	Если бы у вас оставался всего год, что бы вы перестали делать уже завтра утром?
+in-117	Q	T	future	-	Which conversation with the person opposite you do you keep postponing?	Какой разговор с человеком напротив вы всё откладываете на потом?
+in-118	Q	D	future	g,b	Name one small thing you want to do together before this year is over.	Назовите одно маленькое дело, которое хотите сделать вдвоём до конца этого года.
+in-119	Q	D	future	g	Picture the two of you thirty years from now on a train just like this one. Where are you going?	Представьте вас двоих через тридцать лет в точно таком же поезде. Куда вы едете?
+in-120	Q	D	future	-	Which tradition would you like the two of you to start, as early as next week?	Какую общую традицию вы хотели бы завести — прямо со следующей недели?
+in-121	Q	E	imagination	g	Which superpower would you take, and what would you actually use it for?	Какую суперсилу вы бы выбрали и на что бы её на самом деле тратили?
+in-122	Q	E	imagination	g	You are a ghost in your flat a hundred years from now. What do you do to the new tenants?	Через сто лет вы — привидение в своей квартире. Что вы устроите новым жильцам?
+in-123	Q	E	imagination	g	If you were a piece of furniture, which one would you be, and in whose house?	Если бы вы были предметом мебели — каким и в чьём доме?
+in-124	Q	E	imagination	-	Tonight a door appears in your bedroom wall. What is behind it?	Сегодня ночью в стене вашей спальни появляется дверь. Что за ней?
+in-125	Q	E	imagination	b	You may bring one animal into this compartment as a fellow traveller. Which one, and how does it behave?	Какое животное вы взяли бы в это купе попутчиком и как оно будет себя вести всю дорогу?
+in-126	Q	E	imagination	g	Invent your supervillain name. What is your evil plan?	Придумайте себе имя суперзлодея. В чём заключается ваш коварный план?
+in-127	Q	E	imagination	-	This train has a secret carriage that only you may enter. What is inside?	В этом поезде есть секретный вагон, куда пускают только вас. Что в нём?
+in-128	Q	E	imagination	g	Which era would you visit for a weekend, and what souvenir would you bring back?	В какую эпоху вы съездили бы на выходные и что привезли бы оттуда на память?
+in-129	Q	E	imagination	g	If your life had a soundtrack, which song would play when you walk into a room?	Если бы у вашей жизни был саундтрек, какая песня играла бы, когда вы входите в комнату?
+in-130	Q	E	imagination	-	You wake up ten centimetres tall. How does your day go?	Вы просыпаетесь ростом десять сантиметров. Как пройдёт ваш день?
+in-131	Q	N	imagination	-	Which imaginary friend, game or whole world did you invent as a child?	Какого воображаемого друга, игру или целый мир вы придумали в детстве?
+in-132	Q	N	imagination	g	Which book or film would you move into, and which character would you try to avoid?	В какую книгу или фильм вы бы переселились и с каким персонажем постарались бы не встречаться?
+in-133	Q	N	imagination	-	What do you picture when you cannot fall asleep?	Что вы себе представляете, когда не можете уснуть?
+in-134	Q	N	imagination	-	As a child, what did you imagine the grown-ups got up to after you were sent to bed?	Чем, как вам казалось в детстве, занимаются взрослые, когда вас уже уложили спать?
+in-135	Q	N	imagination	g	Which conversation from your family's past would you love to overhear?	Какой разговор из прошлого вашей семьи вы хотели бы подслушать?
+in-136	Q	N	imagination	-	Which stranger have you invented a whole life story for?	Какому незнакомцу вы сочинили целую биографию?
+in-137	Q	N	imagination	g	Which perfectly ordinary day from your past would you live again?	Какой совершенно обычный день из прошлого вы прожили бы ещё раз?
+in-138	Q	N	imagination	b	Which smell carries you somewhere else instantly? Describe where you land.	Какой запах мгновенно переносит вас куда-то ещё? Опишите, где вы оказываетесь.
+in-139	Q	T	imagination	-	If you could step into the hardest moment of your life, what would you say to yourself there?	Если бы можно было заглянуть в самый тяжёлый момент вашей жизни, что бы вы себе там сказали?
+in-140	Q	T	imagination	-	Imagine a life in which you never met the person opposite you. What is missing from it?	Представьте жизнь, в которой вы так и не встретили человека напротив. Чего в ней не хватает?
+in-141	Q	T	imagination	-	If you could overhear what the person opposite you thinks of you when you are not around, what would you hope to hear?	Если бы вы могли подслушать, что человек напротив думает о вас в ваше отсутствие, что вы надеялись бы услышать?
+in-142	Q	D	imagination	b	If tonight were a painting, what would be in it?	Если бы эта ночь была картиной, что было бы на ней изображено?
+in-143	Q	D	imagination	g	Invent a name for the station where the two of you will get off tomorrow morning.	Придумайте название станции, на которой вы двое сойдёте завтра утром.
+in-144	Q	D	imagination	-	What would you put in a time capsule of the two of you, to be opened in twenty years?	Что вы положили бы в вашу общую капсулу времени, которую откроете через двадцать лет?

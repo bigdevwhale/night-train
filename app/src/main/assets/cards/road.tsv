@@ -1,0 +1,231 @@
+rd-001	S	E	sailor	-	Ahoy. Where would you sail if the wind were yours for a whole year and nobody waited for you ashore?	Эй, на палубе. Куда бы вы ушли под парусом, будь ветер вашим целый год и никто не ждал бы на берегу?
+rd-002	S	E	sailor	-	Ever jumped into cold water without checking the depth? Tell it straight, no polishing.	Прыгали когда-нибудь в холодную воду, не проверив глубину? Рассказывайте, да без прикрас.
+rd-003	S	N	sailor	-	Every sailor has a port he can never go back to. Which one is yours?	У каждого моряка есть порт, куда ему уже не вернуться. А у вас какой?
+rd-004	S	E	sailor	g	The ship allows one small thing from home, no more. What goes in your sea bag?	На борт пускают одну маленькую вещь из дома, не больше. Что положите в вещмешок?
+rd-005	S	N	sailor	-	When did you last feel truly free? Not on holiday, mind. Free.	Когда вы в последний раз чувствовали себя по-настоящему свободными? Не в отпуске, а свободными.
+rd-006	S	N	sailor	-	Which storm did you sail through that nobody on shore ever heard about?	Через какой шторм вы прошли так, что на берегу никто и не узнал?
+rd-007	S	E	sailor	g	Which risk did you chicken out of, and still chew on to this day?	От какого риска вы струсили и до сих пор нет-нет да вспоминаете?
+rd-008	S	N	sailor	-	When you've been at sea too long, what does home smell like in your memory?	Когда долго в плавании, чем в памяти пахнет дом? Ваш дом.
+rd-009	S	E	sailor	b	If the person opposite were a ship, what kind? Tugboat, yacht, icebreaker? Explain yourself.	Будь человек напротив кораблём, то каким? Буксир, яхта, ледокол? Извольте объяснить.
+rd-010	S	N	sailor	-	A sailor steers by one star. What's yours, the thing you'd never trade for any cargo?	Моряк держит курс по одной звезде. А ваша какая? То, что не променяете ни на какой груз.
+rd-011	S	E	sailor	b	One seat left in the lifeboat besides the person opposite. Who gets it? Quick, she's sinking.	В шлюпке одно место, кроме человека напротив. Кого берёте? Живее, судно тонет.
+rd-012	S	N	sailor	-	What did you leave in your wake to end up here? Was it worth the voyage?	Что вы оставили за кормой, чтобы оказаться здесь? Стоило оно того плавания?
+rd-013	S	E	child	-	Why do grown-ups stop climbing trees? When did you stop?	А почему взрослые перестают лазить по деревьям? А вы когда перестали?
+rd-014	S	E	child	g	What did you want to be when you were small like me? Why didn't you become it?	А кем вы хотели стать, когда были маленькими, как я? А почему не стали?
+rd-015	S	E	child	b	Why do you two like each other? Say it so I understand.	А почему вы друг другу нравитесь? Только объясните так, чтобы я понял.
+rd-016	S	N	child	-	What were you scared of when you were little? Are you still a tiny bit scared?	А чего вы боялись, когда были маленькими? А сейчас чуть-чуть боитесь?
+rd-017	S	E	child	g	If you had a superpower but only on Tuesdays, which one would you pick?	А если бы у вас была суперсила, но только по вторникам, то какая?
+rd-018	S	N	child	-	Why do grown-ups say 'I'm fine' when they're not fine at all?	А почему взрослые говорят «всё нормально», когда совсем не нормально?
+rd-019	S	E	child	-	What's the silliest thing you ever cried about?	А из-за чего самого глупого вы плакали?
+rd-020	S	N	child	-	Do you ever feel lonely even when there are people around? Why?	А вам бывает одиноко, даже когда вокруг полно людей? Почему так?
+rd-021	S	E	child	g	What do you like doing most when nobody is watching?	А что вы больше всего любите делать, когда никто не видит?
+rd-022	S	N	child	-	Why do grown-ups take so long to say sorry? We just say it.	А почему взрослые так долго не говорят «прости»? Мы вот сразу говорим.
+rd-023	S	E	child	b	If the person opposite were an animal, which one? Why that one?	А если бы человек напротив был зверем, то каким? А почему именно таким?
+rd-024	S	N	child	-	What do you still want to learn, even though you're already big?	А чему вы ещё хотите научиться, хоть вы уже и большие?
+rd-025	S	E	seer	g	Draw a card in your mind. A road, a letter or a door? Tell me why that one came to you.	Вытяните карту мысленно. Дорога, письмо или дверь? Скажите, отчего выпала именно она.
+rd-026	S	N	seer	-	Was there a sign you let slip by, and later wished you had heeded?	Был ли знак, который вы пропустили мимо, а потом пожалели, что не прислушались?
+rd-027	S	E	seer	-	Which tiny chance meeting changed the most in your life?	Какая мимолётная случайная встреча изменила в вашей жизни больше всего?
+rd-028	S	N	seer	g	The cards say in ten years you'll live somewhere unexpected. Where do you hope it is?	Карты говорят: через десять лет вы будете жить там, где не ждёте. А где бы вам хотелось?
+rd-029	S	T	seer	-	If I could tell you one true thing about your future, what would you dread hearing?	Если бы я могла сказать вам одну правду о будущем, что вы боялись бы услышать?
+rd-030	S	N	seer	b	Tell me, were the two of you fated to meet, or did you simply get lucky?	Скажите-ка, вам суждено было встретиться или просто повезло?
+rd-031	S	E	seer	-	Which superstition do you secretly keep, even while you laugh at it?	Какую примету вы тайком соблюдаете, хоть и посмеиваетесь над ней?
+rd-032	S	T	seer	-	Which crossroads in your past do you still walk back to at night?	К какому перекрёстку в прошлом вы до сих пор возвращаетесь по ночам?
+rd-033	S	N	seer	g	Choose: a long quiet life or a short bright one. The cards are waiting.	Выбирайте: долгая тихая жизнь или короткая яркая. Карты ждут.
+rd-034	S	T	seer	-	What do you fear fate has already decided for you?	Чего вы боитесь, что судьба уже решила за вас?
+rd-035	S	E	seer	b	Take the palm of the person opposite and tell their fortune. Invent it if you must, but make it kind.	Возьмите ладонь человека напротив и предскажите судьбу. Можно выдумать, но только добрую.
+rd-036	S	N	seer	-	If luck were a person, how would you thank it for one particular day?	Будь удача человеком, как бы вы поблагодарили её за один особенный день?
+rd-037	S	E	poet	g	Which word do you love purely for the way it sounds?	Какое слово вы любите просто за то, как оно звучит?
+rd-038	S	E	poet	-	Describe the light in the kitchen of your childhood. Only the light.	Опишите свет на кухне вашего детства. Только свет.
+rd-039	S	N	poet	b	Which feature of the person opposite deserves a whole poem? Not the eyes, that's taken.	О какой черте человека напротив можно написать целую поэму? Только не о глазах, это уже занято.
+rd-040	S	E	poet	g	Which sound calms you instantly?	От какого звука вы сразу успокаиваетесь?
+rd-041	S	N	poet	-	Which ordinary everyday moment with the person opposite would you keep in amber forever?	Какой будничный миг с человеком напротив вы бы навсегда сохранили в янтаре?
+rd-042	S	E	poet	-	Name a smell that carries you somewhere at once. Where to?	Назовите запах, который мгновенно куда-то вас уносит. Куда?
+rd-043	S	N	poet	-	What do you find beautiful that most people call ugly?	Что кажется вам прекрасным, хотя большинство считает это некрасивым?
+rd-044	S	E	poet	g	If this evening were a colour, which one? Black won't do, too easy.	Если бы этот вечер был цветом, то каким? Чёрный не принимается, слишком просто.
+rd-045	S	N	poet	-	Which line from a song or a book have you carried with you for years?	Какую строчку из песни или книги вы носите с собой годами?
+rd-046	S	N	poet	-	Three words, no more: how does the person opposite touch you?	Три слова, не больше: как к вам прикасается человек напротив?
+rd-047	S	E	poet	-	What's the loveliest thing you saw this week and told no one about?	Что самое красивое вы видели на этой неделе и никому не рассказали?
+rd-048	S	N	poet	-	When did you last cry from beauty rather than from sorrow?	Когда вы в последний раз плакали от красоты, а не от грусти?
+rd-049	S	E	inspector	g	Cats or dogs. Now!	Кошки или собаки. Живо!
+rd-050	S	N	inspector	g	Last lie you told?	Ваша последняя ложь?
+rd-051	S	E	inspector	g	Worst habit. Five seconds.	Худшая привычка. Пять секунд.
+rd-052	S	E	inspector	g	Song stuck in your head?	Какая песня крутится в голове?
+rd-053	S	N	inspector	g	First crush. Name!	Первая влюблённость. Имя!
+rd-054	S	E	inspector	g	Dream job. One word.	Работа мечты. Одним словом.
+rd-055	S	N	inspector	g	What do you pretend to like?	Что вы делаете вид, что любите?
+rd-056	S	E	inspector	g	Last purchase you regret?	Последняя покупка, о которой жалеете?
+rd-057	S	N	inspector	g	Whom did you last envy?	Кому вы в последний раз завидовали?
+rd-058	S	E	inspector	g	Lark or owl? Decide!	Жаворонок или сова? Решайте!
+rd-059	S	N	inspector	b	One thing you love about the person opposite. Go!	Одно, что вы любите в человеке напротив. Быстро!
+rd-060	S	E	inspector	g	Food you're ashamed to love?	Еда, за которую стыдно, но вкусно?
+rd-061	S	E	granny	g	Eat, eat, you're skin and bones. Now tell me, which dish tastes of your childhood?	Кушайте, кушайте, а то одни косточки. А теперь скажите: какое блюдо для вас пахнет детством?
+rd-062	S	E	granny	-	Who in your family cooked best of all, and what was their dish?	Кто в вашей семье готовил вкуснее всех? И что именно?
+rd-063	S	N	granny	-	Which family tradition would you keep, and which would you quietly let go?	Какую семейную традицию вы бы сохранили, а какую тихонько отменили бы?
+rd-064	S	E	granny	g	When you're poorly, how should one care for you? Fuss around or leave you in peace?	Когда вы хвораете, как с вами лучше: хлопотать вокруг или оставить в покое?
+rd-065	S	N	granny	-	What did a grandparent teach you without ever saying it out loud?	Чему вас научили бабушка или дедушка, ни разу не сказав этого вслух?
+rd-066	S	E	granny	-	Which holiday did your family celebrate the loudest, and who sang?	Какой праздник в вашей семье отмечали шумнее всего? И кто пел за столом?
+rd-067	S	N	granny	-	What do you do for the person opposite out of care, even when it goes unnoticed?	Что вы делаете для человека напротив из заботы, даже если это остаётся незамеченным?
+rd-068	S	E	granny	b	Which pie would you bake for the person opposite? And why that filling?	Какой пирог вы испекли бы человеку напротив? И почему именно с такой начинкой?
+rd-069	S	N	granny	-	What does a real home need besides walls? Name three things, dearie.	Что нужно настоящему дому, кроме стен? Назовите три вещи, голубчики мои.
+rd-070	S	E	granny	g	What do you cook when you want to say sorry?	Что вы готовите, когда хотите попросить прощения?
+rd-071	S	N	granny	-	Whom from your family do you miss at the table?	Кого из родных вам не хватает за столом?
+rd-072	S	N	granny	-	When you're old like me, what do you hope the grandchildren will come round for?	Когда вы состаритесь, как я, ради чего, хочется верить, к вам будут приезжать внуки?
+rd-073	S	E	traveller	g	I met you at fifteen. What were you certain of back then that turned out wrong?	Я встречал вас в пятнадцать. В чём вы тогда были уверены и ошиблись?
+rd-074	S	N	traveller	-	What would you whisper to yourself on the night before your hardest day?	Что бы вы шепнули себе в ночь перед самым трудным днём вашей жизни?
+rd-075	S	E	traveller	-	Which year of your life would you drop in on again, just as a visitor?	В какой год своей жизни вы бы снова заглянули, просто погостить?
+rd-076	S	T	traveller	-	Your seventy-year-old self is sitting here. What do they thank you for, and what do they forgive?	Рядом сидите вы же, только в семьдесят. За что этот человек вас благодарит, а что прощает?
+rd-077	S	N	traveller	g	Which of your current habits would make your ten-year-old self roll with laughter?	Над какой вашей нынешней привычкой вы бы хохотали в десять лет?
+rd-078	S	E	traveller	-	I've just come from next year. Guess one thing that has changed for you.	Я только что из следующего года. Угадайте, что у вас поменялось.
+rd-079	S	T	traveller	-	Which version of yourself did you have to say goodbye to, to become who you are?	С какой версией себя вам пришлось проститься, чтобы стать теми, кто вы сейчас?
+rd-080	S	N	traveller	-	What changed in you after you met the person opposite?	Что в вас изменилось с тех пор, как вы встретили человека напротив?
+rd-081	S	E	traveller	b	Describe the person opposite at eighty. In detail: clothes, habits, grumbling.	Опишите человека напротив в восемьдесят лет. Подробно: одежда, привычки, ворчание.
+rd-082	S	T	traveller	-	Is there a moment you'd go back to only to do it differently?	Есть ли момент, куда вы вернулись бы только затем, чтобы поступить иначе?
+rd-083	S	N	traveller	g	What did you have five years ago that you no longer need?	Что у вас было пять лет назад, а теперь уже не нужно?
+rd-084	S	N	traveller	b	Leave a message for the two of you ten years from now. One sentence.	Оставьте послание вам обоим через десять лет. Одно предложение.
+rd-085	S	E	monk	-	Show, without words, how you feel about Mondays.	Покажите без слов, как вы относитесь к понедельникам.
+rd-086	S	E	monk	g	Without words, show the dish you could eat every single day.	Без слов изобразите блюдо, которое могли бы есть каждый день.
+rd-087	S	N	monk	-	Look at the person opposite for thirty seconds and let your eyes say thank you.	Полминуты смотрите на человека напротив так, чтобы глаза сказали «спасибо».
+rd-088	S	E	monk	-	Draw today's mood on a napkin. Not a single letter.	Нарисуйте на салфетке своё сегодняшнее настроение. Ни одной буквы.
+rd-089	S	E	monk	g	Make one sound that sums up your week.	Издайте один звук, которым можно описать вашу неделю.
+rd-090	S	N	monk	-	Take an object from your pocket or bag that says something about you. Don't explain.	Достаньте из кармана или сумки вещь, которая что-то о вас говорит. Не объясняйте.
+rd-091	S	E	monk	g	Mime your work so clearly that even a stranger would guess it.	Изобразите свою работу так, чтобы её угадал даже случайный попутчик.
+rd-092	S	N	monk	b	With your hands alone, show how the two of you met.	Одними руками покажите, как вы познакомились.
+rd-093	S	N	monk	-	Show, without words, what you do when you feel hurt.	Покажите без слов, что вы делаете, когда вам обидно.
+rd-094	S	E	monk	-	With your eyes closed, draw your dream house on a napkin.	С закрытыми глазами нарисуйте на салфетке дом своей мечты.
+rd-095	S	N	monk	-	Without words, show where in your body your worry lives.	Без слов покажите, в каком месте тела живёт ваша тревога.
+rd-096	S	N	monk	b	Hum, with closed lips, the tune that means 'us' to you.	Не размыкая губ, напойте мелодию, которая для вас значит «мы».
+rd-097	H	E	-	b	Swap one item of clothing for the rest of the trip.	Обменяйтесь одной вещью из одежды до конца поездки.
+rd-098	H	E	-	b	Draw each other in 30 seconds without looking at the paper.	Нарисуйте друг друга за 30 секунд, не глядя на бумагу.
+rd-099	H	E	-	-	Hum the song you'd want at your 80th birthday; the person opposite guesses it.	Напойте песню, которую хотели бы услышать на своём 80-летии. Человек напротив угадывает.
+rd-100	H	N	-	b	Hold hands and stay silent for one minute.	Возьмитесь за руки и помолчите одну минуту.
+rd-101	H	E	-	-	Show the last photo you took that nobody has seen yet.	Покажите последнее фото, которое ещё никто не видел.
+rd-102	H	E	-	b	Thumb-wrestle, best of three. The loser pours the tea.	Поборитесь большими пальцами до двух побед. Кто проиграет, тот наливает чай.
+rd-103	H	E	-	-	Read aloud the last message you sent to anyone except the person opposite.	Прочитайте вслух последнее сообщение, которое отправили кому-то, кроме человека напротив.
+rd-104	H	N	-	b	Look into each other's eyes for one minute without laughing.	Смотрите друг другу в глаза целую минуту и не смейтесь.
+rd-105	H	E	-	-	Do your best impression of the person opposite ordering coffee.	Изобразите, как человек напротив заказывает кофе.
+rd-106	H	E	-	b	Build the tallest tower you can from whatever is on the table. One minute.	За минуту постройте самую высокую башню из всего, что лежит на столе.
+rd-107	H	N	-	-	Give the person opposite a one-minute hand massage.	Сделайте человеку напротив минутный массаж ладони.
+rd-108	H	E	-	b	Swap phones and set each other's wallpaper for one day.	Поменяйтесь телефонами и поставьте друг другу обои на один день.
+rd-109	H	D	-	b	Each write one wish on a napkin, fold it and hand it over. No reading until the trip is over.	Каждый пишет на салфетке одно желание, складывает и отдаёт. Читать только в конце поездки.
+rd-110	H	E	-	-	Tell a joke with a perfectly straight face. If the person opposite laughs, you win.	Расскажите анекдот с каменным лицом. Засмеётся человек напротив, и победа ваша.
+rd-111	H	N	-	b	Trace a word on each other's back with a finger. Guess it.	Напишите пальцем слово на спине друг у друга. Угадайте.
+rd-112	H	E	-	b	Stand up and slow-dance with no music for thirty seconds.	Встаньте и полминуты танцуйте медленный танец без музыки.
+rd-113	H	E	-	b	Speak only in questions until the next card. Whoever slips pays a forfeit.	До следующей карты говорите только вопросами. Кто ошибётся, платит фант.
+rd-114	H	N	-	-	Whisper into the ear of the person opposite something you'd never say on the phone.	Шепните на ухо человеку напротив то, что никогда не сказали бы по телефону.
+rd-115	H	E	-	b	Each find the oldest thing in your bag or pockets. The older one wins.	Найдите самую старую вещь в карманах или сумке. У кого старше, за тем и победа.
+rd-116	H	D	-	b	Name three things you noticed about each other tonight.	Назовите друг другу по три вещи, которые вы заметили этим вечером.
+rd-117	H	E	-	-	Make the face of someone whose parking spot was just stolen.	Сделайте лицо человека, у которого только что увели парковочное место.
+rd-118	H	N	-	b	Sit side by side instead of opposite until the next halt.	Пересядьте рядом друг с другом до следующей остановки.
+rd-119	H	E	-	b	Rock, paper, scissors. The winner asks one question the loser must answer honestly.	Камень, ножницы, бумага. Победитель задаёт вопрос, а проигравшая сторона честно отвечает.
+rd-120	H	N	-	-	Kiss the person opposite anywhere but the lips.	Поцелуйте человека напротив куда угодно, только не в губы.
+rd-121	H	E	-	b	Together, draw a map of your first date from memory.	Вместе нарисуйте по памяти карту вашего первого свидания.
+rd-122	H	E	-	-	Make the person opposite laugh within thirty seconds. No tickling.	Рассмешите человека напротив за 30 секунд. Без щекотки.
+rd-123	H	D	-	b	Photograph your hands held together, a keepsake of this trip.	Сфотографируйте ваши сплетённые руки на память об этой поездке.
+rd-124	H	N	-	b	Rest your foreheads together and count to twenty in unison.	Прижмитесь лбами и вместе, вполголоса, досчитайте до двадцати.
+rd-125	H	E	-	-	Sing the chorus of any song using only 'choo-choo'. The person opposite guesses it.	Спойте припев любой песни одним «чух-чух». Человек напротив угадывает.
+rd-126	H	E	-	b	Each write down how the person opposite takes their tea or coffee. Compare.	Каждый пишет, какой чай или кофе любит человек напротив. Сверьтесь.
+rd-127	H	N	-	-	Pay the person opposite a compliment you've been saving for a while.	Скажите человеку напротив комплимент, который давно приберегали.
+rd-128	H	E	-	b	Arm-wrestle, weaker hands only.	Поборитесь на руках, но только слабой рукой.
+rd-129	H	N	-	b	Palms touching, breathe in sync for ten breaths.	Соприкоснитесь ладонями и десять вдохов дышите в унисон.
+rd-130	H	E	-	-	Repeat the signature gesture of the person opposite until it gets recognised.	Повторяйте фирменный жест человека напротив, пока его не узнают.
+rd-131	H	D	-	-	Tell the person opposite which moment of tonight you'll keep.	Скажите человеку напротив, какой момент этого вечера вы сохраните в памяти.
+rd-132	H	E	-	b	Swap seats and for two minutes talk as each other.	Поменяйтесь местами и две минуты говорите друг за друга.
+rd-133	H	N	-	-	Show the person opposite your favourite place on your own body and say why.	Покажите человеку напротив своё любимое место на собственном теле и скажите почему.
+rd-134	H	E	-	-	Close your eyes. The person opposite puts something from the table in your hand. Guess it by touch.	Закройте глаза. Человек напротив кладёт вам в руку что-нибудь со стола. Угадайте на ощупь.
+rd-135	H	D	-	b	Hug for twenty seconds. They say that's how long it takes to start working.	Обнимитесь на двадцать секунд. Говорят, именно столько нужно, чтобы объятие подействовало.
+rd-136	H	E	-	-	Announce the next station like a real conductor. Invent its name.	Объявите следующую станцию как настоящий проводник. Название придумайте сами.
+rd-137	H	N	-	b	Feed each other one bite of whatever is on the table.	Покормите друг друга кусочком того, что есть на столе.
+rd-138	H	E	-	-	Tell the story of your day as a sports commentator.	Расскажите о своём дне голосом спортивного комментатора.
+rd-139	H	N	-	-	Hold the face of the person opposite in your hands for ten seconds, in silence.	Подержите лицо человека напротив в ладонях десять секунд, молча.
+rd-140	H	D	-	b	Invent a secret word that only the two of you will know.	Придумайте тайное слово, которое будете знать только вы двое.
+rd-141	H	E	-	b	Three rounds of 'never have I ever', fingers up.	Три раунда «Я никогда не…»: загибайте пальцы.
+rd-142	D	*	-	-	Mountains | Sea	Горы | Море
+rd-143	D	*	-	-	Always 10 minutes late | Always 30 minutes early	Всегда опаздывать на 10 минут | Приходить на 30 минут раньше
+rd-144	D	*	-	-	Know the date of your death | Know the cause	Знать дату своей смерти | Знать причину
+rd-145	D	*	-	-	Sunrise | Sunset	Рассвет | Закат
+rd-146	D	*	-	-	Read minds | Be invisible	Читать мысли | Становиться невидимкой
+rd-147	D	*	-	-	Lose all your photos | Lose all your chats	Потерять все фото | Потерять все переписки
+rd-148	D	*	-	-	Fly | Breathe underwater	Летать | Дышать под водой
+rd-149	D	*	-	-	Never hear music again | Never taste sugar again	Больше никогда не слышать музыку | Не есть сладкого
+rd-150	D	*	-	-	Live a century ago | Live a century ahead	Жить на сто лет назад | Жить на сто лет вперёд
+rd-151	D	*	-	-	Big wedding | Elope in secret	Пышная свадьба | Тайно сбежать и расписаться
+rd-152	D	*	-	-	Train | Plane	Поезд | Самолёт
+rd-153	D	*	-	-	Breakfast in bed | Breakfast in a café	Завтрак в постель | Завтрак в кафе
+rd-154	D	*	-	-	Fame | Wealth in obscurity	Слава | Богатство без славы
+rd-155	D	*	-	-	Say everything you think | Keep quiet about the main thing	Говорить всё, что думаешь | Всегда молчать о главном
+rd-156	D	*	-	-	Forget your first love | Forget your first heartbreak	Забыть первую любовь | Забыть первое разбитое сердце
+rd-157	D	*	-	-	Tent in the woods | Five-star hotel	Палатка в лесу | Пятизвёздочный отель
+rd-158	D	*	-	-	Understand animals | Understand babies	Понимать животных | Понимать младенцев
+rd-159	D	*	-	-	Rewind 10 minutes | Pause the world for 10 minutes	Отмотать 10 минут назад | Поставить мир на паузу на 10 минут
+rd-160	D	*	-	-	Dance in public | Sing in public	Станцевать при всех | Спеть при всех
+rd-161	D	*	-	-	A year without internet | A year without coffee	Год без интернета | Год без кофе
+rd-162	D	*	-	-	Winter | Summer	Зима | Лето
+rd-163	D	*	-	-	One great love | Many small ones	Одна большая любовь | Много маленьких
+rd-164	D	*	-	-	Speak every language | Play every instrument	Знать все языки | Играть на всех инструментах
+rd-165	D	*	-	-	A great sense of humour | A sharp mind	Чувство юмора | Острый ум
+rd-166	D	*	-	-	Relive your best day | Glimpse your best day to come	Прожить лучший день заново | Подсмотреть лучший день из будущего
+rd-167	D	*	-	-	Ten cats | One horse	Десять кошек | Одна лошадь
+rd-168	D	*	-	-	Stay 30 forever | Live to 120, ageing as usual	Навсегда 30 лет | Дожить до 120, старея как все
+rd-169	D	*	-	-	Spicy | Sweet	Острое | Сладкое
+rd-170	D	*	-	-	Sleep in | Watch the dawn	Отоспаться | Встретить рассвет
+rd-171	D	*	-	-	Beloved job for pennies | Dull job for a fortune	Любимая работа за копейки | Скучная за большие деньги
+rd-172	D	*	-	-	Village house | City-centre loft	Дом в деревне | Лофт в центре
+rd-173	D	*	-	-	Never quarrel | Quarrel and make up beautifully	Никогда не ссориться | Ссориться, но красиво мириться
+rd-174	D	*	-	-	Read someone's diary | Let someone read yours	Прочитать чужой дневник | Дать прочитать свой
+rd-175	D	*	-	-	Bitter truth | Kind lie	Горькая правда | Добрая ложь
+rd-176	D	*	-	-	Pizza for life | Sushi for life	Всю жизнь пицца | Всю жизнь суши
+rd-177	D	*	-	-	Talk to animals | Talk to your childhood self	Говорить с животными | Поговорить с собой в детстве
+rd-178	D	*	-	-	Lose your sense of smell | Lose your sense of taste	Потерять обоняние | Потерять вкус
+rd-179	D	*	-	-	Phone always at 5% | Internet always slow	Телефон всегда на 5% | Интернет всегда тормозит
+rd-180	D	*	-	-	Plan every trip | Buy a ticket at random	Планировать каждую поездку | Купить билет наугад
+rd-181	D	*	-	-	Hug | Kiss	Объятие | Поцелуй
+rd-182	D	*	-	-	Go down in history | Quiet happiness, no trace	Войти в историю | Тихое счастье без следа
+rd-183	D	*	-	-	Write a book | Plant a forest	Написать книгу | Посадить лес
+rd-184	D	*	-	-	Learn every secret of the person opposite | Keep all of yours	Узнать все тайны человека напротив | Сохранить все свои
+rd-185	D	*	-	-	Morning shower | Evening shower	Душ утром | Душ вечером
+rd-186	D	*	-	-	Cook together | Order in	Готовить вместе | Заказать еду
+rd-187	D	*	-	-	Give up chocolate | Give up cheese	Отказаться от шоколада | Отказаться от сыра
+rd-188	D	*	-	-	Restart at 18, memory intact | Keep everything as it is	Начать заново с 18, всё помня | Оставить всё как есть
+rd-189	D	*	-	-	Flight to space | Dive to the ocean floor	Полёт в космос | Погружение на дно океана
+rd-190	D	*	-	-	Magic | A superpower	Магия | Суперсила
+rd-191	D	*	-	-	Always freezing | Always too hot	Вечно мёрзнуть | Вечно изнывать от жары
+rd-192	D	*	-	-	One talk with someone gone | One look at the future	Один разговор с ушедшим | Один взгляд в будущее
+rd-193	D	*	-	-	Never get lost | Always find parking	Никогда не теряться | Всегда находить парковку
+rd-194	D	*	-	-	Long letters | Short messages every day	Длинные письма | Короткие сообщения каждый день
+rd-195	D	*	-	-	Forgive everything | Forget everything	Всё простить | Всё забыть
+rd-196	D	*	-	-	Live in a lighthouse | Live in a treehouse	Жить на маяке | Жить в домике на дереве
+rd-197	D	*	-	-	Tea | Coffee	Чай | Кофе
+rd-198	D	*	-	-	Surprise party | Surprise trip	Вечеринка-сюрприз | Поездка-сюрприз
+rd-199	D	*	-	-	Stop time | Repeat one day	Остановить время | Прожить один день дважды
+rd-200	D	*	-	-	Undo one past mistake | Learn one future secret	Исправить одну ошибку прошлого | Узнать одну тайну будущего
+rd-201	D	*	-	-	Unlimited books | Unlimited travel	Безлимит на книги | Безлимит на путешествия
+rd-202	D	*	-	-	A child's laugh | Rain on the roof	Детский смех | Дождь по крыше
+rd-203	D	*	-	-	Lose your keys daily | Lose your phone monthly	Терять ключи каждый день | Терять телефон раз в месяц
+rd-204	D	*	-	-	Life without mirrors | Life without clocks	Жизнь без зеркал | Жизнь без часов
+rd-205	D	*	-	-	Someone who cooks | Someone who sings	Тот, кто готовит | Тот, кто поёт
+rd-206	D	*	-	-	Say 'I love you' too often | Too rarely	Говорить «люблю» слишком часто | Слишком редко
+rd-207	D	*	-	-	Only old friends | New friends every year	Только старые друзья | Новые друзья каждый год
+rd-208	D	*	-	-	Sing every sentence | Speak only in rhyme	Всё время петь | Говорить только в рифму
+rd-209	D	*	-	-	Win a million | Dig up a treasure in the garden	Выиграть миллион | Найти клад в огороде
+rd-210	D	*	-	-	Know every family secret | Know none	Знать все семейные тайны | Не знать ни одной
+rd-211	D	*	-	-	Midnight swim | Midnight picnic on a roof	Ночное купание | Ночной пикник на крыше
+rd-212	D	*	-	-	Robot that cleans | Robot that cooks	Робот-уборщик | Робот-повар
+rd-213	D	*	-	-	10 cm taller | 10 years younger	Плюс 10 см роста | Минус 10 лет
+rd-214	D	*	-	-	No more birthdays | No more New Year	Без дней рождения | Без Нового года
+rd-215	D	*	-	-	A year in Japan | A year on a yacht	Год в Японии | Год на яхте
+rd-216	D	*	-	-	A week of silence | A week of parties	Неделя полной тишины | Неделя вечеринок
+rd-217	D	*	-	-	Hear others' thoughts for a day | Have yours heard	Сутки слышать чужие мысли | Сутки, когда слышат ваши
+rd-218	D	*	-	-	Grow old in one house | Never stay anywhere long	Состариться в одном доме | Нигде не задерживаться
+rd-219	D	*	-	-	Handwritten letter | Voice message	Письмо от руки | Голосовое сообщение
+rd-220	D	*	-	-	Never feel jealous | Never feel bored	Не знать ревности | Не знать скуки
+rd-221	D	*	-	-	Free flights forever | Free food forever	Бесплатные перелёты навсегда | Бесплатная еда навсегда
+rd-222	D	*	-	-	Live in a fairy tale | Live in a detective story	Жить в сказке | Жить в детективе
+rd-223	D	*	-	-	Be loved | Be understood	Чтобы любили | Чтобы понимали
+rd-224	D	*	-	-	Host the party | Be a guest	Принимать гостей | Ходить в гости
+rd-225	D	*	-	-	Spotless home | Cosy mess	Идеальный порядок | Уютный беспорядок
+rd-226	D	*	-	-	Remember every dream | Never dream again	Помнить каждый сон | Не видеть снов вовсе
+rd-227	D	*	-	-	Ten years of bliss | Fifty years of calm	Десять лет счастья | Пятьдесят лет покоя
+rd-228	D	*	-	-	Sing karaoke now | Tell your most awkward story now	Спеть в караоке | Рассказать самую неловкую историю
+rd-229	D	*	-	-	Stars | City lights	Звёзды | Огни города
+rd-230	D	*	-	-	Wear one colour forever | Never wear anything twice	Всю жизнь носить один цвет | Ни разу не надеть вещь дважды
+rd-231	D	*	-	-	Always the last word | Always right, but silently	Последнее слово за вами | Правота, но молча

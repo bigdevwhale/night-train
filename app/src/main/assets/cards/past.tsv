@@ -1,0 +1,135 @@
+pa-001	Q	E	childhood	g	Which smell takes you straight back to childhood?	Какой запах мгновенно возвращает вас в детство?
+pa-002	Q	E	childhood	-	What did adults lie to you about that you believed for far too long?	Во что из сказанного взрослыми вы верили непозволительно долго?
+pa-003	Q	E	childhood	g	Where was the best hiding place you ever had as a child?	Где было ваше лучшее детское укрытие?
+pa-004	Q	E	childhood	g	Which food did you flatly refuse to eat as a child, and do you eat it now?	Какую еду вы в детстве наотрез отказывались есть — и едите ли её сейчас?
+pa-005	Q	E	childhood	g	What did you collect as a kid, and where is that collection now?	Что вы собирали в детстве и где сейчас эта коллекция?
+pa-006	Q	E	childhood	-	Which secret superpower were you quietly sure you had as a child?	В какую свою тайную суперсилу вы верили в детстве?
+pa-007	Q	E	childhood	g	Which cartoon or TV show did you run home for?	Ради какого мультфильма или передачи вы неслись домой со всех ног?
+pa-008	Q	E	childhood	g,b	What did you want to be when you grew up, before anyone explained what was 'realistic'?	Кем вы мечтали стать, пока вам ещё не объяснили, что «реально», а что нет?
+pa-009	Q	E	childhood	g	What was the most precious thing in your pockets at about eight?	Что было самым ценным в ваших карманах лет в восемь?
+pa-010	Q	N	childhood	-	Which childhood fear does your body still remember?	Какой детский страх ваше тело помнит до сих пор?
+pa-011	Q	N	childhood	-	Describe the view from your childhood bedroom window, as precisely as you can.	Опишите как можно точнее вид из окна вашей детской комнаты.
+pa-012	Q	N	childhood	-	What were you punished for as a child that you'd do again without hesitation?	За что вас наказали в детстве — хотя вы бы и сейчас сделали это, не раздумывая?
+pa-013	Q	N	childhood	-	Who was your first best friend, and how did that friendship end?	Кто был вашим первым лучшим другом и чем закончилась эта дружба?
+pa-014	Q	N	childhood	-	Which grown-up outside your family did you secretly admire?	Каким взрослым — не из семьи — вы тайком восхищались?
+pa-015	Q	N	childhood	g	What was the first thing you ever bought with your own money?	Что вы купили на первые собственные деньги?
+pa-016	Q	N	childhood	-	What game did you invent as a kid, and what were its rules?	Какую игру вы придумали в детстве и какие в ней были правила?
+pa-017	Q	N	childhood	-	What was summer like when you were ten: where were you, and what did it sound like?	Каким было ваше лето в десять лет: где вы были и как оно звучало?
+pa-018	Q	N	childhood	g	Which childhood nickname did you love, and which one did you hate?	Какое детское прозвище вам нравилось, а какое вы терпеть не могли?
+pa-019	Q	N	childhood	-	What was the biggest secret you kept as a child?	Какую самую большую тайну вы хранили в детстве?
+pa-020	Q	T	childhood	-	When did you first feel truly lonely as a child?	Когда в детстве вам впервые стало по-настоящему одиноко?
+pa-021	Q	T	childhood	-	What did you need as a child that nobody noticed?	Чего вам не хватало в детстве — так, что никто этого не замечал?
+pa-022	Q	T	childhood	-	If you had to name one moment when your childhood ended, which would it be?	Если назвать один момент, когда кончилось ваше детство, — что это был бы за момент?
+pa-023	Q	T	childhood	-	If you had one minute on a station platform with the child you once were, what would you say?	Будь у вас минута на перроне с ребёнком, которым вы когда-то были, — что бы вы ему сказали?
+pa-024	Q	D	childhood	b	Which childlike trait do you see in the person opposite you?	Какую детскую черту вы замечаете в человеке напротив?
+pa-025	Q	D	childhood	g,b	Which childhood game would you love to play together tonight?	В какую детскую игру вам хотелось бы сыграть вдвоём прямо сегодня?
+pa-026	Q	D	childhood	-	What would the child you once were think of your life now?	Что бы сказал о вашей нынешней жизни ребёнок, которым вы когда-то были?
+pa-027	Q	D	childhood	-	What did your childhood give you that you're grateful for today?	За что из своего детства вы благодарны сегодня?
+pa-028	Q	E	family	-	Which rule from your parents' house do you still keep, and which one did you break on purpose?	Какое правило из родительского дома вы соблюдаете до сих пор, а какое нарушили нарочно?
+pa-029	Q	E	family	g	Which dish was always on your family's holiday table?	Какое блюдо всегда стояло на праздничном столе в вашей семье?
+pa-030	Q	E	family	g	Which family saying do you catch yourself repeating?	Какую семейную присказку вы ловите себя на том, что повторяете?
+pa-031	Q	E	family	-	Who in your family told the best stories, and which one do you remember?	Кто в вашей семье лучше всех рассказывал истории — и какую из них вы помните?
+pa-032	Q	E	family	g	What did Sunday mornings look like in your family?	Как проходило воскресное утро в вашей семье?
+pa-033	Q	E	family	g	Which relative was the fun one, and what did they get up to?	Кто из родни был самым весёлым — и что он вытворял?
+pa-034	Q	E	family	g	Which object from your parents' home would you rescue first?	Какую вещь из родительского дома вы бы спасли первой?
+pa-035	Q	E	family	-	Which family tradition did you think every family had, until you found out otherwise?	Какую семейную традицию вы считали общей для всех, пока не узнали, что это не так?
+pa-036	Q	E	family	g,b	How did your family argue: loudly, in silence, or with slammed doors?	Как в вашей семье ссорились: громко, молча или хлопая дверями?
+pa-037	Q	N	family	-	What did you learn about love by watching your parents?	Что вы узнали о любви, наблюдая за родителями?
+pa-038	Q	N	family	-	Which family story has been retold so often that you're no longer sure it's true?	Какую семейную историю пересказывали так часто, что вы уже не уверены, правда ли это?
+pa-039	Q	N	family	g	What do you have from a grandparent: an object, a habit, a gesture?	Что у вас осталось от бабушки или дедушки: вещь, привычка, жест?
+pa-040	Q	N	family	g	Which relative are you most like, whether you like it or not?	На кого из родных вы больше всего похожи — хочется вам того или нет?
+pa-041	Q	N	family	-	What was never discussed at your family table?	О чём за вашим семейным столом никогда не говорили?
+pa-042	Q	N	family	-	When did you first see one of your parents as simply a person?	Когда вы впервые увидели в одном из родителей просто человека?
+pa-043	Q	N	family	-	What did your family worry about that you only understood years later?	О чём тревожилась ваша семья, а вы поняли это только спустя годы?
+pa-044	Q	N	family	g	Which sibling or cousin were you closest to growing up?	С кем из братьев, сестёр или двоюродных вы были ближе всего в детстве?
+pa-045	Q	N	family	-	How did your family show love without saying it out loud?	Как в вашей семье показывали любовь, не говоря о ней вслух?
+pa-046	Q	N	family	g	Which skill did someone in your family pass down to you?	Какое умение передал вам кто-то из родных?
+pa-047	Q	T	family	-	What did you never get the chance to say to someone in your family?	Что вы так и не успели сказать кому-то из родных?
+pa-048	Q	T	family	-	Which family pattern are you most afraid of repeating?	Какой семейный сценарий вы больше всего боитесь повторить?
+pa-049	Q	T	family	-	When did you feel like an outsider in your own family?	Когда вы чувствовали себя чужими в собственной семье?
+pa-050	Q	T	family	-	What have you forgiven your parents for, and what can't you forgive yet?	Что вы простили родителям, а что пока простить не получается?
+pa-051	Q	D	family	b	Which tradition from your family would you like to carry into your life with the person opposite you?	Какую традицию своей семьи вы хотели бы взять в общую жизнь с человеком напротив?
+pa-052	Q	D	family	-	What touches you in the way the person opposite you treats their family?	Что вас трогает в том, как человек напротив относится к своей семье?
+pa-053	Q	D	family	g	Which of your relatives would you most love to introduce to the person opposite you, even if it's too late?	С кем из родных вам больше всего хотелось бы познакомить человека напротив — даже если уже поздно?
+pa-054	Q	D	family	b	What would you like your family's story to look like twenty years from now?	Какой вам хотелось бы видеть историю вашей семьи лет через двадцать?
+pa-055	Q	E	past	g	What object have you never thrown away, even though it's long been useless?	Какую вещь вы так и не выбросили, хотя толку от неё давно никакого?
+pa-056	Q	E	past	g	What was your very first job, and what did it pay?	Какой была ваша самая первая работа и сколько за неё платили?
+pa-057	Q	E	past	g	Which song instantly puts you back in a particular year?	Какая песня мгновенно переносит вас в конкретный год?
+pa-058	Q	E	past	g	What was the worst haircut of your life, and who was to blame?	Какая стрижка была худшей в вашей жизни — и кто в этом виноват?
+pa-059	Q	E	past	g	Which trend did you follow that you'd now rather forget?	За какой модой вы когда-то гнались, а теперь предпочли бы о ней забыть?
+pa-060	Q	E	past	g	What's the strangest place you've ever spent the night?	Где вам доводилось ночевать в самом странном месте?
+pa-061	Q	E	past	-	Which trip went completely wrong, and what do you remember most about it?	Какая поездка пошла совсем не по плану — и что из неё запомнилось больше всего?
+pa-062	Q	E	past	-	What's the most ridiculous thing you've ever done to impress someone?	Какую самую нелепую вещь вы сделали, чтобы произвести на кого-то впечатление?
+pa-063	Q	E	past	g,b	Which year of your life would make the best film, and in what genre?	Какой год вашей жизни стал бы лучшим фильмом — и в каком жанре?
+pa-064	Q	N	past	-	Which past version of yourself do you miss a little?	По какой своей прошлой версии вы немного скучаете?
+pa-065	Q	N	past	g	Which city or flat do you still wander through in your dreams?	По какому городу или квартире вы до сих пор бродите во сне?
+pa-066	Q	N	past	-	Which stranger changed something in your life without ever knowing it?	Какой незнакомец, сам того не зная, что-то изменил в вашей жизни?
+pa-067	Q	N	past	-	Which decision took you a minute but shaped years?	Какое решение заняло у вас минуту, а определило годы?
+pa-068	Q	N	past	-	Which friendship faded quietly, without a fight, and do you know why?	Какая дружба угасла тихо, без ссоры, — и понимаете ли вы почему?
+pa-069	Q	N	past	g	What were you proudest of at twenty?	Чем вы больше всего гордились в двадцать лет?
+pa-070	Q	N	past	-	Which letter, note or message from the past do you still keep?	Какое письмо, записку или сообщение из прошлого вы храните до сих пор?
+pa-071	Q	N	past	-	When did you take the biggest risk of your life, and what was the night before like?	Когда вы рисковали сильнее всего в жизни — и какой была ночь накануне?
+pa-072	Q	N	past	-	Which teacher or mentor said something you still carry with you?	Какой учитель или наставник сказал вам то, что вы носите с собой до сих пор?
+pa-073	Q	N	past	-	What were you once certain of that you now see completely differently?	В чём вы когда-то были твёрдо уверены, а теперь думаете совсем иначе?
+pa-074	Q	T	past	-	Which choice from your past do you still replay at night?	Какой выбор из прошлого вы до сих пор прокручиваете в голове по ночам?
+pa-075	Q	T	past	-	When did you last cry, and what was it really about?	Когда вы плакали в последний раз — и о чём на самом деле были эти слёзы?
+pa-076	Q	T	past	-	Which part of your past have you never told anyone in full?	О какой части своего прошлого вы никому не рассказывали целиком?
+pa-077	Q	T	past	-	Who did you once hurt, and what would you say to them now?	Кому вы когда-то причинили боль и что сказали бы этому человеку сейчас?
+pa-078	Q	D	past	g,b	Which moment from your shared past would you happily live through again?	Какой момент из вашего общего прошлого вы бы с радостью прожили снова?
+pa-079	Q	D	past	b	When did you first realise that the person opposite you really mattered?	Когда вы впервые поняли, что человек напротив для вас по-настоящему важен?
+pa-080	Q	D	past	-	Which of your past selves would be most surprised to see you here tonight?	Какая из ваших прошлых версий удивилась бы больше всего, увидев вас здесь сегодня?
+pa-081	Q	D	past	-	What from your past are you ready to leave behind on this train?	Что из прошлого вы готовы оставить в этом поезде?
+pa-082	Q	E	quirks	g	What do you do in exactly the same order every single morning?	Что вы каждое утро делаете строго в одном и том же порядке?
+pa-083	Q	E	quirks	g	Which food combination do you love that makes other people wince?	Какое сочетание продуктов вы обожаете, хотя другие от него морщатся?
+pa-084	Q	E	quirks	g	What do you always check twice before leaving home?	Что вы всегда проверяете дважды, прежде чем выйти из дома?
+pa-085	Q	E	quirks	g	Which word do you mispronounce on purpose, or simply can't say right?	Какое слово вы нарочно произносите неправильно — или просто не можете выговорить?
+pa-086	Q	E	quirks	g	What do you talk to that can't talk back: plants, the car, the kettle?	С чем вы разговариваете, хотя оно не может ответить: с цветами, машиной, чайником?
+pa-087	Q	E	quirks	g,b	Which superstition do you follow, just in case?	Какую примету вы соблюдаете — так, на всякий случай?
+pa-088	Q	E	quirks	g	What's your strangest skill that has never once come in handy?	Какое у вас самое странное умение, которое ни разу не пригодилось?
+pa-089	Q	E	quirks	g	What do you eat differently from everyone else, and how exactly?	Что вы едите не так, как все остальные, — и как именно?
+pa-090	Q	E	quirks	-	What do you do when you're sure nobody is watching?	Что вы делаете, когда уверены, что никто не видит?
+pa-091	Q	N	quirks	-	Which habit of yours drives you mad, yet you can't drop it?	Какая собственная привычка вас бесит, но избавиться от неё не получается?
+pa-092	Q	N	quirks	-	What do you secretly rehearse in your head before saying it out loud?	Что вы втайне репетируете в голове, прежде чем сказать вслух?
+pa-093	Q	N	quirks	g	What small thing instantly ruins your mood?	Какая мелочь мгновенно портит вам настроение?
+pa-094	Q	N	quirks	g	Which odd ritual helps you fall asleep?	Какой странный ритуал помогает вам уснуть?
+pa-095	Q	N	quirks	g	What do you hoard without admitting it: bags, jars, receipts?	Что вы копите, не признаваясь себе: пакеты, банки, чеки?
+pa-096	Q	N	quirks	-	Where did one of your strangest habits come from?	Откуда взялась одна из самых странных ваших привычек?
+pa-097	Q	N	quirks	-	What do you pretend to like because it's easier than explaining?	Что вы делаете вид, что любите, потому что так проще, чем объяснять?
+pa-098	Q	N	quirks	-	Which imaginary argument do you keep winning in the shower?	Какой воображаемый спор вы раз за разом выигрываете в душе?
+pa-099	Q	N	quirks	b	Which quirk of the person opposite you did you notice first?	Какую странность человека напротив вы заметили первой?
+pa-100	Q	N	quirks	g	What tiny luxury do you allow yourself that nobody knows about?	Какую маленькую роскошь вы позволяете себе втайне от всех?
+pa-101	Q	T	quirks	-	Which part of yourself do you hide because you think it's too strange?	Какую свою черту вы прячете, потому что считаете её слишком странной?
+pa-102	Q	T	quirks	-	Which habit did you build to protect yourself, and from what?	Какая привычка появилась у вас как защита — и от чего?
+pa-103	Q	T	quirks	-	What do you do when you're anxious that you've never explained to anyone?	Что вы делаете в минуты тревоги такого, чего никогда никому не объясняли?
+pa-104	Q	T	quirks	-	Which of your quirks are you afraid makes you hard to love?	Из-за какой своей странности вы боитесь, что вас трудно любить?
+pa-105	Q	D	quirks	b	Which quirk of the person opposite you would you never want to lose?	Какую причуду человека напротив вы ни за что не хотели бы потерять?
+pa-106	Q	D	quirks	g	Which odd habit have you picked up from the person opposite you?	Какую странную привычку вы переняли у человека напротив?
+pa-107	Q	D	quirks	g	Which of your shared rituals would look completely absurd to a stranger?	Какой ваш общий ритуал показался бы постороннему полной нелепицей?
+pa-108	Q	D	quirks	-	Which silly little habit would you like the two of you to start together?	Какую забавную привычку вам хотелось бы завести вдвоём?
+pa-109	Q	E	senses	g	Which sound means 'home' to you?	Какой звук для вас означает «дом»?
+pa-110	Q	E	senses	g	Which smell do you love that most people find unpleasant?	Какой запах вы любите, хотя большинству он неприятен?
+pa-111	Q	E	senses	g	Which texture can't you stand to touch?	Какую фактуру вы терпеть не можете трогать?
+pa-112	Q	E	senses	g	What's the most delicious thing you've ever tasted, and where were you?	Что было самым вкусным в вашей жизни — и где вы тогда были?
+pa-113	Q	E	senses	g	Which sound gives you pleasant goosebumps?	От какого звука у вас бегут приятные мурашки?
+pa-114	Q	E	senses	b	If tonight had a smell, what would it be?	Если бы у этого вечера был запах, каким бы он был?
+pa-115	Q	E	senses	g,b	What's your favourite sound on a train?	Какой звук в поезде вы любите больше всего?
+pa-116	Q	E	senses	g	What colour does the sky have to be to make you stop and stare?	Каким должно быть небо, чтобы вы остановились и засмотрелись?
+pa-117	Q	E	senses	-	Which food tastes like a particular person to you?	Какая еда для вас на вкус как конкретный человек?
+pa-118	Q	N	senses	-	Which smell reminds you of someone you once loved?	Какой запах напоминает вам человека, которого вы когда-то любили?
+pa-119	Q	N	senses	-	What's the loudest silence you remember?	Какую самую оглушительную тишину вы помните?
+pa-120	Q	N	senses	g	Which piece of clothing feels like a hug when you put it on?	Какая одежда ощущается как объятие, когда вы её надеваете?
+pa-121	Q	N	senses	-	Which sound from your past no longer exists anywhere?	Какого звука из вашего прошлого больше нигде не услышать?
+pa-122	Q	N	senses	-	Where did you see the most beautiful light of your life?	Где вы видели самый красивый свет в своей жизни?
+pa-123	Q	N	senses	g,b	Which scent of the person opposite you could you recognise blindfolded?	Какой запах человека напротив вы узнали бы с закрытыми глазами?
+pa-124	Q	N	senses	g	Which taste do you connect with being ill and looked after?	Какой вкус у вас связан с тем, как вы болели, а за вами ухаживали?
+pa-125	Q	N	senses	g	In what weather do you feel most like yourself?	В какую погоду вы больше всего чувствуете себя собой?
+pa-126	Q	N	senses	g	Which sound do you fall asleep to best?	Под какой звук вы засыпаете лучше всего?
+pa-127	Q	N	senses	-	Which brief touch from a stranger do you still remember?	Чьё мимолётное прикосновение — совсем незнакомого человека — вы помните до сих пор?
+pa-128	Q	T	senses	-	Which sensation drags you back to a moment you'd rather forget?	Какое ощущение возвращает вас в момент, который вы предпочли бы забыть?
+pa-129	Q	T	senses	-	When did your body know something before you could admit it to yourself?	Когда ваше тело поняло что-то раньше, чем вы смогли себе в этом признаться?
+pa-130	Q	T	senses	-	Whose voice would you give anything to hear one more time?	Чей голос вы отдали бы всё, чтобы услышать ещё раз?
+pa-131	Q	T	senses	-	When did you last feel completely safe, with your whole body, and where were you?	Когда вы в последний раз чувствовали себя в полной безопасности — всем телом — и где это было?
+pa-132	Q	D	senses	g	Which gesture or touch from the person opposite you calms you instantly?	Какой жест или прикосновение человека напротив мгновенно вас успокаивает?
+pa-133	Q	D	senses	-	Which sound of the person opposite you do you love most: their laugh, their footsteps, the way they hum?	Какой звук человека напротив вы любите больше всего: смех, шаги, тихое напевание?
+pa-134	Q	D	senses	b	What would you like to taste, hear or see together for the very first time?	Что вам хотелось бы впервые попробовать, услышать или увидеть вместе?
+pa-135	Q	D	senses	-	Which sensation from tonight would you like to keep?	Какое ощущение от этого вечера вам хотелось бы сохранить?
