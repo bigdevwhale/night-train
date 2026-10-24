@@ -1,5 +1,11 @@
 # Changelog
 
+<!--
+Telegram: end each version's section with a hidden block for the StillCraft chat. Start it with a
+line "<!-- tg", then 2-4 short lines in Russian for users (what is new, what is fixed), no markdown,
+then close it like any HTML comment. The release notes carry it, and the chat bot posts those lines.
+-->
+
 ## [1.0.0]
 
 - First release: a date for two on a night train. The phone is the table: facing each other, the screen splits in two halves turned to each of you, with two windows back to back between them; side by side, one screen for both.
