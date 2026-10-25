@@ -42,6 +42,7 @@ import app.nighttrain.ui.Depot
 import app.nighttrain.ui.Go
 import app.nighttrain.ui.Language
 import app.nighttrain.ui.components.Chip
+import app.nighttrain.ui.components.CommunityLinks
 import app.nighttrain.ui.components.ConfirmDialog
 import app.nighttrain.ui.components.InfoRow
 import app.nighttrain.ui.components.SectionTitle
@@ -110,6 +111,8 @@ fun SettingsScreen(d: Depot, go: Go) {
                 InfoRow(Icons.Rounded.Upload, stringResource(R.string.backup_export_sub), stringResource(R.string.backup_export)) { export.launch("night-train-${LocalDate.now()}.json") }
                 InfoRow(Icons.Rounded.Download, stringResource(R.string.backup_import_sub), stringResource(R.string.backup_import)) { import.launch(arrayOf("application/json", "text/plain", "*/*")) }
             }
+
+            CommunityLinks()
 
             SectionTitle(stringResource(R.string.set_about))
             Text(stringResource(R.string.set_method), style = UType.Sub)
